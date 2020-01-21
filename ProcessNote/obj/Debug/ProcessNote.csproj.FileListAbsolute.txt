@@ -1,0 +1,7 @@
+C:\Users\Gergő\Desktop\Codecool\ProcessNote\ProcessNote\bin\Debug\ProcessNote.exe.config
+C:\Users\Gergő\Desktop\Codecool\ProcessNote\ProcessNote\bin\Debug\ProcessNote.exe
+C:\Users\Gergő\Desktop\Codecool\ProcessNote\ProcessNote\bin\Debug\ProcessNote.pdb
+C:\Users\Gergő\Desktop\Codecool\ProcessNote\ProcessNote\obj\Debug\ProcessNote.csprojAssemblyReference.cache
+C:\Users\Gergő\Desktop\Codecool\ProcessNote\ProcessNote\obj\Debug\ProcessNote.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\Desktop\Codecool\ProcessNote\ProcessNote\obj\Debug\ProcessNote.exe
+C:\Users\Gergő\Desktop\Codecool\ProcessNote\ProcessNote\obj\Debug\ProcessNote.pdb
