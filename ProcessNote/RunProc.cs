@@ -6,14 +6,21 @@ using System.Threading.Tasks;
 using System.Diagnostics;
 using System.Threading;
 using System.ComponentModel;
+using System.Xml.Serialization;
+using System.Xml;
 
 namespace ProcessNote
 {
-    class RunProc
+    public class RunProc
     {
         public int ProcId { get; set; }
         public string ProcName { get; set; }
-        public TimeSpan RunningTime { get; set; }
+        [XmlIgnore]
+        public TimeSpan RunningTime { get { return XmlConvert.ToTimeSpan(ReadTimeSpan); } set { ReadTimeSpan = XmlConvert.ToString(value); } }
+        [XmlElement("RunningTime")]
+        [Browsable(false)]
+        public string ReadTimeSpan { get; set; }
+        
 
         
 
@@ -23,6 +30,10 @@ namespace ProcessNote
             ProcId = id;
             ProcName = name;
             RunningTime = running;
+        }
+        public RunProc()
+        {
+
         }
 
         public static List<RunProc> processCreate()

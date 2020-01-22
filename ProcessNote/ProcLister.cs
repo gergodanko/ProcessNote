@@ -3,15 +3,21 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace ProcessNote
 {
-    class ProcLister
+    [Serializable]
+      public class ProcLister
     {
-        public List<RunProc> ListedProcs { get; set; }
+         public List<RunProc> ListedProcs;
         public ProcLister(List<RunProc> listed)
         {
             ListedProcs = listed;
+        }
+        public ProcLister()
+        {
+
         }
         public void procPrinter(ProcLister procList)
         {

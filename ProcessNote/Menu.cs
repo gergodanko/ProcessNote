@@ -60,11 +60,20 @@ namespace ProcessNote
                                 listOfProcs.procPrinter(listOfProcs);
                                 Thread.Sleep(5000);
                                 
-                            }
 
+                            }
+                            break;
 
                         }
+                    case 3:
+                        {
+                            Console.Clear();
+                            ProcLister listOfProcs = new ProcLister(RunProc.processCreate());
+                            XmlHandler.Xmlanyad(listOfProcs);
                             break;
+                        }
+                    
+
                         }
                 }
             }

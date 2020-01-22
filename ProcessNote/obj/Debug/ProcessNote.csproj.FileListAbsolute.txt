@@ -11,3 +11,9 @@ C:\Users\Gergő\Desktop\Codecool\ProcessNoteReal\ProcessNote\obj\Debug\ProcessNo
 C:\Users\Gergő\Desktop\Codecool\ProcessNoteReal\ProcessNote\bin\Debug\ProcessNote.exe.config
 C:\Users\Gergő\Desktop\Codecool\ProcessNoteReal\ProcessNote\bin\Debug\ProcessNote.exe
 C:\Users\Gergő\Desktop\Codecool\ProcessNoteReal\ProcessNote\bin\Debug\ProcessNote.pdb
+C:\Users\istva\Source\Repos\ProcessNote\ProcessNote\bin\Debug\ProcessNote.exe.config
+C:\Users\istva\Source\Repos\ProcessNote\ProcessNote\bin\Debug\ProcessNote.exe
+C:\Users\istva\Source\Repos\ProcessNote\ProcessNote\bin\Debug\ProcessNote.pdb
+C:\Users\istva\Source\Repos\ProcessNote\ProcessNote\obj\Debug\ProcessNote.csprojAssemblyReference.cache
+C:\Users\istva\Source\Repos\ProcessNote\ProcessNote\obj\Debug\ProcessNote.exe
+C:\Users\istva\Source\Repos\ProcessNote\ProcessNote\obj\Debug\ProcessNote.pdb
