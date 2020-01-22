@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Menu.cs" />
+    <Compile Include="ProcLister.cs" />
+    <Compile Include="RunProc.cs" />
     <Compile Include="SystemUsage.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -13,14 +13,22 @@ namespace ProcessNote
     {
         static void Main(string[] args)
         {
-            t1.Start();
 
-            t2.Start();
-            t1.Join();
-            t2.Join();
+            Menu asd = new Menu();
+            asd.start();
+            
+
+            //Menu asd = new Menu();
+            //asd.start();
+
+            //t1.Start();
+
+            //t2.Start();
+            //t1.Join();
+            //t2.Join();
 
         }
-        static Thread t1 = new Thread(
+        /*static Thread t1 = new Thread(
                     new ThreadStart(() =>
                     {
                         SystemUsage.getCurrentCpuUsage();
@@ -50,10 +58,10 @@ namespace ProcessNote
                                     Thread.Sleep(800);
                                 }
                         //trigger camera
-                    }));
+                    }));*/
 
   
-        public static List<string> processRuntime() { 
+        /*public static List<string> processRuntime() { 
         while (true)
              {
                  Process[] processlist = Process.GetProcesses();
@@ -78,10 +86,10 @@ namespace ProcessNote
                 return asd;
                  
                 
-            }
+            }*/
 
         }
-    }}
+    }
        
         /*static Thread t3 = new Thread(new ThreadStart(() =>
         {
