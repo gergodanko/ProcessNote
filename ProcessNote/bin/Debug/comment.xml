@@ -4,527 +4,577 @@
     <RunProc>
       <ProcId>1292</ProcId>
       <ProcName>chrome</ProcName>
-      <RunningTime>PT1H45M9.3574602S</RunningTime>
-    </RunProc>
-    <RunProc>
-      <ProcId>4736</ProcId>
-      <ProcName>SearchProtocolHost</ProcName>
-      <RunningTime>PT3M14.4032337S</RunningTime>
+      <RunningTime>PT5H27M16.6830331S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>8180</ProcId>
       <ProcName>ServiceHub.VSDetouredHost</ProcName>
-      <RunningTime>PT1H48M33.0262149S</RunningTime>
+      <RunningTime>PT5H30M40.4132146S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>9472</ProcId>
       <ProcName>SecurityHealthHost</ProcName>
-      <RunningTime>PT16H41M35.3828182S</RunningTime>
+      <RunningTime>PT20H23M42.7698179S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>4848</ProcId>
       <ProcName>MicrosoftEdgeSH</ProcName>
-      <RunningTime>PT16H44M20.9028013S</RunningTime>
+      <RunningTime>PT20H26M28.3107839S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>11616</ProcId>
       <ProcName>conhost</ProcName>
-      <RunningTime>PT1H48M26.768215S</RunningTime>
-    </RunProc>
-    <RunProc>
-      <ProcId>14440</ProcId>
-      <ProcName>ProcessNote</ProcName>
-      <RunningTime>PT2.8505363S</RunningTime>
+      <RunningTime>PT5H30M34.2071675S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>1724</ProcId>
       <ProcName>svchost</ProcName>
-      <RunningTime>PT16H45M36.4874328S</RunningTime>
-    </RunProc>
-    <RunProc>
-      <ProcId>1568</ProcId>
-      <ProcName>iexplore</ProcName>
-      <RunningTime>PT3M17.0025977S</RunningTime>
-    </RunProc>
-    <RunProc>
-      <ProcId>13056</ProcId>
-      <ProcName>VBCSCompiler</ProcName>
-      <RunningTime>PT17M36.5630674S</RunningTime>
+      <RunningTime>PT20H27M43.9363776S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>11176</ProcId>
       <ProcName>chrome</ProcName>
-      <RunningTime>PT4H56M34.6134755S</RunningTime>
+      <RunningTime>PT8H38M42.0574224S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>5136</ProcId>
       <ProcName>RuntimeBroker</ProcName>
-      <RunningTime>PT16H44M21.011026S</RunningTime>
+      <RunningTime>PT20H26M28.4529758S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>4704</ProcId>
       <ProcName>SynLenovoHelper</ProcName>
-      <RunningTime>PT16H45M37.653086S</RunningTime>
+      <RunningTime>PT20H27M45.0950358S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>10480</ProcId>
+      <ProcName>SearchProtocolHost</ProcName>
+      <RunningTime>PT2M21.2032448S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>15040</ProcId>
+      <ProcName>conhost</ProcName>
+      <RunningTime>PT2.825042S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>1728</ProcId>
       <ProcName>RuntimeBroker</ProcName>
-      <RunningTime>PT1H42M25.1111753S</RunningTime>
+      <RunningTime>PT5H24M32.5990829S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>4692</ProcId>
       <ProcName>SynTPLpr</ProcName>
-      <RunningTime>PT16H45M37.6827364S</RunningTime>
+      <RunningTime>PT20H27M45.170644S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>1672</ProcId>
       <ProcName>dllhost</ProcName>
-      <RunningTime>PT16H28M21.9035907S</RunningTime>
+      <RunningTime>PT20H10M29.4194726S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>8528</ProcId>
       <ProcName>rundll32</ProcName>
-      <RunningTime>PT16H4M17.5950284S</RunningTime>
-    </RunProc>
-    <RunProc>
-      <ProcId>8060</ProcId>
-      <ProcName>chrome</ProcName>
-      <RunningTime>PT19M58.0266299S</RunningTime>
+      <RunningTime>PT19H46M25.1109103S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>10640</ProcId>
       <ProcName>chrome</ProcName>
-      <RunningTime>PT1H45M9.2609034S</RunningTime>
+      <RunningTime>PT5H27M16.8756934S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>5968</ProcId>
       <ProcName>ShellExperienceHost</ProcName>
-      <RunningTime>PT16H41M35.3463518S</RunningTime>
+      <RunningTime>PT20H23M42.9611418S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>5536</ProcId>
       <ProcName>StartMenuExperienceHost</ProcName>
-      <RunningTime>PT16H45M35.4834604S</RunningTime>
+      <RunningTime>PT20H27M43.0982504S</RunningTime>
     </RunProc>
     <RunProc>
-      <ProcId>10268</ProcId>
-      <ProcName>chrome</ProcName>
-      <RunningTime>PT1H7M17.1981041S</RunningTime>
+      <ProcId>16736</ProcId>
+      <ProcName>conhost</ProcName>
+      <RunningTime>PT2.0989951S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>11128</ProcId>
       <ProcName>PerfWatson2</ProcName>
-      <RunningTime>PT1H48M36.740577S</RunningTime>
+      <RunningTime>PT5H30M44.4452854S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>3408</ProcId>
+      <ProcName>chrome</ProcName>
+      <RunningTime>PT2M39.9523817S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>6736</ProcId>
       <ProcName>TuneIn</ProcName>
-      <RunningTime>PT56M19.1759638S</RunningTime>
+      <RunningTime>PT4H38M26.8816723S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>9784</ProcId>
+      <ProcName>iexplore</ProcName>
+      <RunningTime>PT2M22.174131S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>10488</ProcId>
       <ProcName>conhost</ProcName>
-      <RunningTime>PT1H48M33.0991688S</RunningTime>
+      <RunningTime>PT5H30M40.8318498S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>11116</ProcId>
       <ProcName>chrome</ProcName>
-      <RunningTime>PT4H56M34.8543632S</RunningTime>
+      <RunningTime>PT8H38M42.6180151S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>2064</ProcId>
       <ProcName>taskhostw</ProcName>
-      <RunningTime>PT16H45M39.2500603S</RunningTime>
+      <RunningTime>PT20H27M47.0137122S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>2924</ProcId>
       <ProcName>chrome</ProcName>
-      <RunningTime>PT4H56M34.1429432S</RunningTime>
+      <RunningTime>PT8H38M41.9205822S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>5940</ProcId>
       <ProcName>RuntimeBroker</ProcName>
-      <RunningTime>PT16H45M35.068977S</RunningTime>
+      <RunningTime>PT20H27M42.846616S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>7228</ProcId>
       <ProcName>chrome</ProcName>
-      <RunningTime>PT4H56M34.7221976S</RunningTime>
-    </RunProc>
-    <RunProc>
-      <ProcId>8772</ProcId>
-      <ProcName>chrome</ProcName>
-      <RunningTime>PT2H18M27.1481365S</RunningTime>
-    </RunProc>
-    <RunProc>
-      <ProcId>14976</ProcId>
-      <ProcName>ScriptedSandbox64</ProcName>
-      <RunningTime>PT2.0838091S</RunningTime>
-    </RunProc>
-    <RunProc>
-      <ProcId>5924</ProcId>
-      <ProcName>conhost</ProcName>
-      <RunningTime>PT17M36.801766S</RunningTime>
+      <RunningTime>PT8H38M42.5008382S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>8504</ProcId>
       <ProcName>RuntimeBroker</ProcName>
-      <RunningTime>PT16H41M35.1806988S</RunningTime>
+      <RunningTime>PT20H23M42.9523449S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>5052</ProcId>
       <ProcName>SynTPHelper</ProcName>
-      <RunningTime>PT16H45M37.3429529S</RunningTime>
+      <RunningTime>PT20H27M45.1185958S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>4620</ProcId>
+      <ProcName>steamwebhelper</ProcName>
+      <RunningTime>PT1H20M3.2625872S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>6772</ProcId>
       <ProcName>SkypeBackgroundHost</ProcName>
-      <RunningTime>PT16H45M33.4794084S</RunningTime>
+      <RunningTime>PT20H27M41.2550513S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>7200</ProcId>
       <ProcName>RuntimeBroker</ProcName>
-      <RunningTime>PT16H45M32.4477598S</RunningTime>
+      <RunningTime>PT20H27M40.2234027S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>11824</ProcId>
       <ProcName>ServiceHub.Host.CLR.x86</ProcName>
-      <RunningTime>PT1H47M0.6167742S</RunningTime>
+      <RunningTime>PT5H29M8.395414S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>7196</ProcId>
       <ProcName>audiodg</ProcName>
-      <RunningTime>PT1H2M6.2114414S</RunningTime>
+      <RunningTime>PT4H44M13.9900812S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>8488</ProcId>
       <ProcName>hkcmd</ProcName>
-      <RunningTime>PT16H45M22.7441878S</RunningTime>
-    </RunProc>
-    <RunProc>
-      <ProcId>9780</ProcId>
-      <ProcName>smartscreen</ProcName>
-      <RunningTime>PT6M44.8598008S</RunningTime>
+      <RunningTime>PT20H27M30.5228276S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>3656</ProcId>
       <ProcName>chrome</ProcName>
-      <RunningTime>PT4H56M34.8124104S</RunningTime>
+      <RunningTime>PT8H38M42.5910502S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>9340</ProcId>
       <ProcName>ServiceHub.IdentityHost</ProcName>
-      <RunningTime>PT1H48M33.4181849S</RunningTime>
+      <RunningTime>PT5H30M41.2078156S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>11584</ProcId>
       <ProcName>ServiceHub.Host.CLR.x86</ProcName>
-      <RunningTime>PT1H48M28.7038083S</RunningTime>
+      <RunningTime>PT5H30M36.4964369S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>10628</ProcId>
       <ProcName>ServiceHub.DataWarehouseHost</ProcName>
-      <RunningTime>PT1H46M58.4020631S</RunningTime>
+      <RunningTime>PT5H29M6.1946917S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>8472</ProcId>
       <ProcName>conhost</ProcName>
-      <RunningTime>PT1H46M58.3301319S</RunningTime>
+      <RunningTime>PT5H29M6.1237589S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>16660</ProcId>
+      <ProcName>chrome</ProcName>
+      <RunningTime>PT2M42.4439165S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>17220</ProcId>
+      <ProcName>steamwebhelper</ProcName>
+      <RunningTime>PT1H6M59.8676215S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>8624</ProcId>
       <ProcName>igfxpers</ProcName>
-      <RunningTime>PT16H45M22.140089S</RunningTime>
+      <RunningTime>PT20H27M29.933716S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>2428</ProcId>
       <ProcName>RuntimeBroker</ProcName>
-      <RunningTime>PT16H45M25.4997086S</RunningTime>
+      <RunningTime>PT20H27M33.3173138S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>7164</ProcId>
       <ProcName>LockApp</ProcName>
-      <RunningTime>PT16H45M32.9329177S</RunningTime>
+      <RunningTime>PT20H27M40.7495218S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>8456</ProcId>
+      <ProcName>conhost</ProcName>
+      <RunningTime>PT11M33.6582774S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>4572</ProcId>
       <ProcName>ServiceHub.SettingsHost</ProcName>
-      <RunningTime>PT1H48M27.2416809S</RunningTime>
+      <RunningTime>PT5H30M35.0682777S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>11896</ProcId>
       <ProcName>ServiceHub.ThreadedWaitDialog</ProcName>
-      <RunningTime>PT1H46M54.236209S</RunningTime>
+      <RunningTime>PT5H29M2.0628058S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>14480</ProcId>
+      <ProcName>MSBuild</ProcName>
+      <RunningTime>PT3.6559499S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>8444</ProcId>
       <ProcName>SkypeBridge</ProcName>
-      <RunningTime>PT16H45M23.0709611S</RunningTime>
+      <RunningTime>PT20H27M30.8975579S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>12224</ProcId>
       <ProcName>conhost</ProcName>
-      <RunningTime>PT1H48M28.7556825S</RunningTime>
+      <RunningTime>PT5H30M36.5917623S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>8008</ProcId>
       <ProcName>Microsoft.ServiceHub.Controller</ProcName>
-      <RunningTime>PT1H48M34.6716712S</RunningTime>
+      <RunningTime>PT5H30M42.507751S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>11052</ProcId>
       <ProcName>conhost</ProcName>
-      <RunningTime>PT1H47M0.7394495S</RunningTime>
+      <RunningTime>PT5H29M8.5755293S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>17148</ProcId>
+      <ProcName>steamwebhelper</ProcName>
+      <RunningTime>PT1H19M48.2603732S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>16496</ProcId>
+      <ProcName>ProcessNote</ProcName>
+      <RunningTime>PT2.6424517S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>1100</ProcId>
+      <ProcName>Steam</ProcName>
+      <RunningTime>PT1H20M5.3304095S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>15880</ProcId>
+      <ProcName>RuntimeBroker</ProcName>
+      <RunningTime>PT2H45M34.7831876S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>8840</ProcId>
       <ProcName>TuneIn</ProcName>
-      <RunningTime>PT56M20.1676151S</RunningTime>
+      <RunningTime>PT4H38M28.0996058S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>6684</ProcId>
       <ProcName>esrv</ProcName>
-      <RunningTime>PT16H41M38.9606011S</RunningTime>
+      <RunningTime>PT20H23M46.8925918S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>11136</ProcId>
       <ProcName>chrome</ProcName>
-      <RunningTime>PT4H56M35.1461881S</RunningTime>
+      <RunningTime>PT8H38M43.0781788S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>3664</ProcId>
       <ProcName>svchost</ProcName>
-      <RunningTime>PT16H43M39.7029989S</RunningTime>
+      <RunningTime>PT20H25M47.6349896S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>8404</ProcId>
       <ProcName>SystemSettings</ProcName>
-      <RunningTime>PT1H39M26.1808229S</RunningTime>
+      <RunningTime>PT5H21M34.1128136S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>4520</ProcId>
+      <ProcName>chrome</ProcName>
+      <RunningTime>PT42M38.2797468S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>4088</ProcId>
       <ProcName>SynTPEnh</ProcName>
-      <RunningTime>PT16H45M38.8983468S</RunningTime>
+      <RunningTime>PT20H27M46.8413265S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>2792</ProcId>
       <ProcName>svchost</ProcName>
-      <RunningTime>PT16H45M39.7509299S</RunningTime>
+      <RunningTime>PT20H27M47.6969076S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>3648</ProcId>
       <ProcName>TuneIn</ProcName>
-      <RunningTime>PT56M20.8386151S</RunningTime>
-    </RunProc>
-    <RunProc>
-      <ProcId>10564</ProcId>
-      <ProcName>iexplore</ProcName>
-      <RunningTime>PT3M16.9785202S</RunningTime>
+      <RunningTime>PT4H38M28.7865915S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>9240</ProcId>
       <ProcName>conhost</ProcName>
-      <RunningTime>PT1H46M55.465608S</RunningTime>
+      <RunningTime>PT5H29M3.4115833S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>8376</ProcId>
       <ProcName>igfxtray</ProcName>
-      <RunningTime>PT16H45M23.4719622S</RunningTime>
+      <RunningTime>PT20H27M31.4179375S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>6720</ProcId>
       <ProcName>DSATray</ProcName>
-      <RunningTime>PT16H45M32.9920521S</RunningTime>
-    </RunProc>
-    <RunProc>
-      <ProcId>14400</ProcId>
-      <ProcName>chrome</ProcName>
-      <RunningTime>PT24M28.2578394S</RunningTime>
+      <RunningTime>PT20H27M40.9380274S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>4916</ProcId>
       <ProcName>explorer</ProcName>
-      <RunningTime>PT16H45M37.8651085S</RunningTime>
+      <RunningTime>PT20H27M45.8130849S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>2760</ProcId>
       <ProcName>RuntimeBroker</ProcName>
-      <RunningTime>PT16H44M48.5154358S</RunningTime>
+      <RunningTime>PT20H26M56.4634122S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>2316</ProcId>
       <ProcName>ctfmon</ProcName>
-      <RunningTime>PT16H45M40.2169513S</RunningTime>
+      <RunningTime>PT20H27M48.1799141S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>9636</ProcId>
       <ProcName>conhost</ProcName>
-      <RunningTime>PT1H46M54.4391335S</RunningTime>
-    </RunProc>
-    <RunProc>
-      <ProcId>584</ProcId>
-      <ProcName>conhost</ProcName>
-      <RunningTime>PT3.498656S</RunningTime>
+      <RunningTime>PT5H29M2.4190798S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>6180</ProcId>
       <ProcName>ServiceHub.RoslynCodeAnalysisService32</ProcName>
-      <RunningTime>PT1H47M14.4020433S</RunningTime>
+      <RunningTime>PT5H29M22.4059687S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>8328</ProcId>
       <ProcName>TuneIn</ProcName>
-      <RunningTime>PT56M20.2924023S</RunningTime>
+      <RunningTime>PT4H38M28.3013222S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>16508</ProcId>
+      <ProcName>ScriptedSandbox64</ProcName>
+      <RunningTime>PT2.2562093S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>3144</ProcId>
       <ProcName>conhost</ProcName>
-      <RunningTime>PT1H48M34.9312644S</RunningTime>
+      <RunningTime>PT5H30M42.9951328S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>9608</ProcId>
       <ProcName>Microsoft.Photos</ProcName>
-      <RunningTime>PT15H34.2167306S</RunningTime>
+      <RunningTime>PT18H42M42.280599S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>5296</ProcId>
       <ProcName>dllhost</ProcName>
-      <RunningTime>PT16H45M36.8035233S</RunningTime>
+      <RunningTime>PT20H27M44.8683906S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>14592</ProcId>
+      <ProcName>iexplore</ProcName>
+      <RunningTime>PT2M23.0193399S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>6584</ProcId>
       <ProcName>RuntimeBroker</ProcName>
-      <RunningTime>PT16H45M34.2276088S</RunningTime>
+      <RunningTime>PT20H27M42.2924761S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>10380</ProcId>
       <ProcName>ServiceHub.TestWindowStoreHost</ProcName>
-      <RunningTime>PT1H46M55.6963531S</RunningTime>
+      <RunningTime>PT5H29M3.7612204S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>7012</ProcId>
       <ProcName>SkypeApp</ProcName>
-      <RunningTime>PT16H45M33.5509955S</RunningTime>
+      <RunningTime>PT20H27M41.6158628S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>2324</ProcId>
       <ProcName>browser_broker</ProcName>
-      <RunningTime>PT16H44M21.9119872S</RunningTime>
+      <RunningTime>PT20H26M29.9768545S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>4712</ProcId>
       <ProcName>TuneIn</ProcName>
-      <RunningTime>PT56M20.488699S</RunningTime>
+      <RunningTime>PT4H38M28.5535663S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>6140</ProcId>
       <ProcName>SettingSyncHost</ProcName>
-      <RunningTime>PT16H45M35.3224771S</RunningTime>
+      <RunningTime>PT20H27M43.3873449S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>10596</ProcId>
       <ProcName>chrome</ProcName>
-      <RunningTime>PT4H56M34.8609972S</RunningTime>
+      <RunningTime>PT8H38M42.925865S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>8160</ProcId>
       <ProcName>ApplicationFrameHost</ProcName>
-      <RunningTime>PT16H44M49.7966628S</RunningTime>
+      <RunningTime>PT20H26M57.8605315S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>16464</ProcId>
+      <ProcName>Taskmgr</ProcName>
+      <RunningTime>PT14M38.9123351S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>15600</ProcId>
+      <ProcName>steamwebhelper</ProcName>
+      <RunningTime>PT1H20M4.3433192S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>2668</ProcId>
       <ProcName>svchost</ProcName>
-      <RunningTime>PT16H45M40.1426134S</RunningTime>
+      <RunningTime>PT20H27M48.233457S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>17320</ProcId>
+      <ProcName>steamwebhelper</ProcName>
+      <RunningTime>PT1H20M4.2662134S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>7832</ProcId>
+      <ProcName>smartscreen</ProcName>
+      <RunningTime>PT5M31.8998854S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>5244</ProcId>
       <ProcName>devenv</ProcName>
-      <RunningTime>PT1H48M38.9370208S</RunningTime>
+      <RunningTime>PT5H30M47.0338587S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>5692</ProcId>
       <ProcName>chrome</ProcName>
-      <RunningTime>PT1H49M17.3056586S</RunningTime>
+      <RunningTime>PT5H31M25.4024965S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>10412</ProcId>
       <ProcName>WindowsInternal.ComposableShell.Experiences.TextInput.InputApp</ProcName>
-      <RunningTime>PT1H42M26.0046S</RunningTime>
+      <RunningTime>PT5H24M34.1014379S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>5772</ProcId>
       <ProcName>chrome</ProcName>
-      <RunningTime>PT2H19M28.9038281S</RunningTime>
+      <RunningTime>PT6H1M36.9996667S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>2640</ProcId>
       <ProcName>sihost</ProcName>
-      <RunningTime>PT16H45M40.2152418S</RunningTime>
+      <RunningTime>PT20H27M48.3100816S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>9212</ProcId>
       <ProcName>chrome</ProcName>
-      <RunningTime>PT4H56M34.8999719S</RunningTime>
+      <RunningTime>PT8H38M42.9948117S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>3500</ProcId>
+      <ProcName>steamwebhelper</ProcName>
+      <RunningTime>PT1H20M4.0458198S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>5880</ProcId>
       <ProcName>taskhostw</ProcName>
-      <RunningTime>PT1H40M14.9723128S</RunningTime>
+      <RunningTime>PT5H22M23.0671526S</RunningTime>
+    </RunProc>
+    <RunProc>
+      <ProcId>15152</ProcId>
+      <ProcName>VBCSCompiler</ProcName>
+      <RunningTime>PT11M34.5563039S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>2200</ProcId>
       <ProcName>GameBar</ProcName>
-      <RunningTime>PT16H3M2.0593423S</RunningTime>
+      <RunningTime>PT19H45M10.1541821S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>5048</ProcId>
       <ProcName>conhost</ProcName>
-      <RunningTime>PT1H48M33.8194794S</RunningTime>
+      <RunningTime>PT5H30M41.9143192S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>9996</ProcId>
       <ProcName>conhost</ProcName>
-      <RunningTime>PT1H47M14.5579194S</RunningTime>
+      <RunningTime>PT5H29M22.6617522S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>6932</ProcId>
       <ProcName>RuntimeBroker</ProcName>
-      <RunningTime>PT16H45M25.8505076S</RunningTime>
+      <RunningTime>PT20H27M33.9543404S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>5152</ProcId>
       <ProcName>MicrosoftEdge</ProcName>
-      <RunningTime>PT16H44M22.1477913S</RunningTime>
+      <RunningTime>PT20H26M30.2516241S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>6492</ProcId>
       <ProcName>PowerMgr</ProcName>
-      <RunningTime>PT16H45M34.5927535S</RunningTime>
+      <RunningTime>PT20H27M42.697585S</RunningTime>
     </RunProc>
     <RunProc>
-      <ProcId>5628</ProcId>
-      <ProcName>chrome</ProcName>
-      <RunningTime>PT20M5.0823934S</RunningTime>
+      <ProcId>12952</ProcId>
+      <ProcName>steamwebhelper</ProcName>
+      <RunningTime>PT1H19M48.8999743S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>1068</ProcId>
       <ProcName>WinStore.App</ProcName>
-      <RunningTime>PT16H44M49.9476708S</RunningTime>
+      <RunningTime>PT20H26M58.0455081S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>4752</ProcId>
       <ProcName>SearchUI</ProcName>
-      <RunningTime>PT16H45M35.2238191S</RunningTime>
+      <RunningTime>PT20H27M43.323656S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>6904</ProcId>
       <ProcName>MicrosoftEdgeCP</ProcName>
-      <RunningTime>PT16H44M21.8830626S</RunningTime>
+      <RunningTime>PT20H26M29.9828995S</RunningTime>
     </RunProc>
     <RunProc>
       <ProcId>10776</ProcId>
       <ProcName>chrome</ProcName>
-      <RunningTime>PT4H56M34.8498648S</RunningTime>
+      <RunningTime>PT8H38M42.9387092S</RunningTime>
     </RunProc>
   </ListedProcs>
 </ProcLister>

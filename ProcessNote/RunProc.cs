@@ -21,6 +21,7 @@ namespace ProcessNote
         [Browsable(false)]
         public string ReadTimeSpan { get; set; }
         
+        public string Comment { get; set; }
 
         
 
@@ -30,6 +31,7 @@ namespace ProcessNote
             ProcId = id;
             ProcName = name;
             RunningTime = running;
+           
         }
         public RunProc()
         {
