@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -27,6 +27,7 @@ namespace ProcessNote
             {
                 "Running processes",
                 "Realtime running processes",
+                "System usage",
                 "Saving data to file"
             };
 
@@ -59,7 +60,7 @@ namespace ProcessNote
                                 ProcLister listOfProcs = new ProcLister(RunProc.processCreate());
                                 listOfProcs.procPrinter(listOfProcs);
                                 Thread.Sleep(5000);
-                                
+
 
                             }
                             break;
@@ -68,8 +69,22 @@ namespace ProcessNote
                     case 3:
                         {
                             Console.Clear();
+                            
+                            Console.WriteLine("Press x to exit. ");
+                            SystemUsage.getCurrentCpuUsage();
+                            break;
+
+                        }
+                    case 4:
+                        {
+                            Console.Clear();
                             ProcLister listOfProcs = new ProcLister(RunProc.processCreate());
                             XmlHandler.Xmlanyad(listOfProcs);
+                            break;
+                        }
+                    case 0:
+                        {
+                            Environment.Exit(0);
                             break;
                         }
                     
