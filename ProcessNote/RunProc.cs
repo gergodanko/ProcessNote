@@ -26,18 +26,19 @@ namespace ProcessNote
         
 
 
-        public RunProc(int id, string name,TimeSpan running)
+        public RunProc(int id, string name,TimeSpan running,string comment)
         {
             ProcId = id;
             ProcName = name;
             RunningTime = running;
+            Comment = comment;
            
         }
         public RunProc()
         {
 
         }
-
+        
         public static List<RunProc> processCreate()
         {
             while (true)
@@ -50,7 +51,7 @@ namespace ProcessNote
                     try
                     {
                         runtime = DateTime.Now - theprocess.StartTime;
-                        RunProc runningProcess = new RunProc(theprocess.Id, theprocess.ProcessName, runtime);
+                        RunProc runningProcess = new RunProc(theprocess.Id, theprocess.ProcessName, runtime,null);
                         runningProcs.Add(runningProcess);
                     }
                     catch (Exception ex)

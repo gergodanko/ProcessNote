@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 using System.Xml.Serialization;
 using System.IO;
 using System.Xml.Linq;
-
+using System.Collections;
 
 namespace ProcessNote
 {
-    class XmlHandler
+    class XmlHandler 
     {
-        public static void Xmlanyad(ProcLister procList)
+        public static void XmlWriter(ProcLister procList)
         {
             //ProcLister listOfProcs = new ProcLister(RunProc.processCreate());
 
@@ -24,18 +24,21 @@ namespace ProcessNote
                     serializer.Serialize(writer, procList);
                 
             }
-           /* string inputId = "8328";
-            string inputName = "TuneIn";
-            string inputComment = "SAnyi";
-            string xmlString = System.IO.File.ReadAllText("comment.xml");
-            XDocument doc = XDocument.Parse(xmlString);
-            XElement id = doc.Root.Element(inputId);
-            XElement name = doc.Root.Element(inputName);
-            XComment comm = new XComment(inputComment);
-            id.AddBeforeSelf(comm);
-            */
+            
 
 
         }
+        public static ProcLister XmlReader() {
+            XmlSerializer serializer =new  XmlSerializer(typeof(ProcLister));
+            ProcLister listOfProcs;
+            using (Stream reader = new FileStream("comment.xml",FileMode.Open))
+            {
+                listOfProcs = (ProcLister)serializer.Deserialize(reader);
+            }
+            return listOfProcs;
+        }
+        
+        }
+        
     }
-}
+
